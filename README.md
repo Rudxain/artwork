@@ -1,2 +1,2 @@
 # artwork
-Project files for graphics, audio, etc... that I made
+Project files for graphics, audio, videos, etc... that I made
