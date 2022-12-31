@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 13 13" style="background-color:#000" xmlns="http://www.w3.org/2000/svg">
+	<rect width="13" height="13"/>
+
+	<!-- there must be some way to compress all of these -->
+
+	<circle cx="1.5" cy="4.5" r="0.6666666666666666" fill="#f00"/>
+	<circle cx="1.5" cy="6.5" r="0.6666666666666666" fill="#f00"/>
+	<circle cx="1.5" cy="8.5" r="0.6666666666666666" fill="#f00"/>
+
+	<circle cx="3.5" cy="5.5" r="0.6666666666666666" fill="#ff0"/>
+	<circle cx="3.5" cy="7.5" r="0.6666666666666666" fill="#ff0"/>
+
+	<circle cx="5.5" cy="4.5" r="0.6666666666666666" fill="#0f0"/>
+	<circle cx="5.5" cy="6.5" r="0.6666666666666666" fill="#0f0"/>
+	<circle cx="5.5" cy="8.5" r="0.6666666666666666" fill="#0f0"/>
+
+	<circle cx="7.5" cy="5.5" r="0.6666666666666666" fill="#0ff"/>
+	<circle cx="7.5" cy="7.5" r="0.6666666666666666" fill="#0ff"/>
+
+	<circle cx="9.5" cy="4.5" r="0.6666666666666666" fill="#00f"/>
+	<circle cx="9.5" cy="6.5" r="0.6666666666666666" fill="#00f"/>
+	<circle cx="9.5" cy="8.5" r="0.6666666666666666" fill="#00f"/>
+
+	<circle cx="11.5" cy="5.5" r="0.6666666666666666" fill="#f0f"/>
+	<circle cx="11.5" cy="7.5" r="0.6666666666666666" fill="#f0f"/>
+</svg>
